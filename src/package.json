@@ -1,0 +1,17 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.3"
+  }
+}
